@@ -1,0 +1,1 @@
+print(int(input("enter x:"))+int(input("enter y:")))
